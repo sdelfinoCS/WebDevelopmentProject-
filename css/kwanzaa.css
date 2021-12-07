@@ -44,12 +44,13 @@ Copyright: ThemeMountain
 
 /* About body styling */
 body{
-	font-family: 'Playfair Display', 'Helvetica Neue', sans-serif;
+	font-family: 'Bebas Neue', cursive;
+    font-family: 'Teko', sans-serif;
 	letter-spacing: 0;
-	font-weight: 300;
-	font-size: 1.4rem;
+	font-weight: 200;
+	font-size: 2.8rem;
 	line-height: 1.8;
-	color: #666;
+	color: rgb(19, 17, 17);
 }
 h1, 
 h2, 
@@ -72,7 +73,9 @@ textarea,
 .grid-filter-menu a,
 .counter,
 .call-to-action-2 p{
-	font-family: 'Roboto', 'Helvetica Neue', sans-serif;
+	font-family: 'Bebas Neue', cursive;
+    font-family: 'Teko', sans-serif;
+	font-size: 3.7rem;
 }
 
 /* Titles */
@@ -85,7 +88,8 @@ h6{
 	line-height: 1.2;
 	font-weight: 400;
 	text-transform: uppercase;
-	color: #000;
+	color: rgb(0, 0, 0);
+	font-size: 12.0rem;
 }
 h1 a:hover,
 h2 a:hover,
@@ -93,7 +97,7 @@ h3 a:hover,
 h4 a:hover,
 h5 a:hover,
 h6 a:hover{
-	color: #9a9484;
+	color: #9a9384;
 }
 h1{
 	font-size: 4.381rem;
@@ -117,10 +121,10 @@ h6{
 /* Widget Titles */
 .footer .widget-title, 
 .footer .widget-title a{
-	font-size: 1.4rem;
+	font-size: 3.4rem;
 	font-weight: 700;
 	letter-spacing: 0.2rem;
-	color: #999;
+	color: rgb(213, 210, 226);
 }
 .sidebar .widget-title, 
 .sidebar .widget-title a{
@@ -130,7 +134,7 @@ h6{
 .side-navigation-wrapper .widget-title a{
 	font-size: 1.4rem;
 	font-weight: 400;
-	color: #fff;
+	color: rgb(255, 255, 255);
 }
 .overlay-navigation-wrapper .widget-title, 
 .overlay-navigation-wrapper .widget-title a{
@@ -140,7 +144,7 @@ h6{
 
 /* Title Classes */
 .title-xlarge{
-	font-size: 7.749rem;
+	font-size: 8.749rem;
 	line-height: 1.2;
 }
 .title-large{
@@ -707,10 +711,10 @@ body,
 	padding-bottom: 2rem;
 }
 .header .navigation > ul > li > a{
-	margin: 0 1.5rem;
+	margin: 0 2.5rem;
 	padding-left: 0;
 	padding-right: 0;
-	font-size: 1.1rem;
+	font-size: 3.3rem;
 	text-transform: uppercase;
 	font-weight: 500;
 	letter-spacing: 0;
@@ -2812,19 +2816,19 @@ textarea.required-field{
 /* Footer Text */
 .footer .widget,
 .footer address{
-	font-size: 1.3rem;
+	font-size: 3.3rem;
 	color: #999;
 	text-transform: none;
 	font-style: normal;
 }
 .footer-top a:not(.button):not([class*="icon-"]){
-	font-size: 1.3rem;
+	font-size: 2.3rem;
 }
 .footer-top a:not(.button){
 	color: #666;
 }
 .footer-bottom a{
-	font-size: 1.1rem;
+	font-size: 3.1rem;
 }
 .footer .copyright{
 	margin-bottom: 0;
@@ -2895,7 +2899,7 @@ textarea.required-field{
 .footer .social-list a{
 	font-size: 1.1rem;
 	font-weight: normal;
-	color: #fff;
+	color: rgba(64, 80, 218, 0.753);
 	text-transform: uppercase;
 	letter-spacing: 0.1rem;
 }
